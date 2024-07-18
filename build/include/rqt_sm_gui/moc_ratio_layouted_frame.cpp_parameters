@@ -1,0 +1,7 @@
+-I/home/jake/ros2_Egypt/src/rqt_sm_gui/include/rqt_sm_gui
+-I/home/jake/ros2_Egypt/src/rqt_sm_gui/src/rqt_sm_gui
+-I/home/jake/ros2_Egypt/src/rqt_sm_gui
+-I/home/jake/ros2_Egypt/src/rqt_sm_gui/build
+-o
+/home/jake/ros2_Egypt/src/rqt_sm_gui/build/include/rqt_sm_gui/moc_ratio_layouted_frame.cpp
+/home/jake/ros2_Egypt/src/rqt_sm_gui/include/rqt_sm_gui/ratio_layouted_frame.h
